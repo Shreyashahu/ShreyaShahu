@@ -1,44 +1,93 @@
 <!-- Header Section -->
-<h1 align="center"><font face="Arial">Hi👋, I'm Shreya Shahu </font></h1>
-<h3 align="center"><font face="Arial"><a href="https://www.linkedin.com/in/shreyashahu/" target="_blank" rel="noreferrer">Shreya</a> is a passionate Full Stack Developer from India, working on Web Development Projects for 6+ months now. Feel free to reach out for any Freelance Projects.</font></h3>
+<h1 align="center"><font face="Arial">Hi 👋, I'm Shreya Shahu</font></h1>
+<h3 align="center">
+<font face="Arial">
+Aspiring Machine Learning Engineer | Computer Vision & Deep Learning Enthusiast
+</font>
+</h3>
+
 <br>
 
 <!-- GIF -->
 <img align="right" height="300" width="450" src="https://user-images.githubusercontent.com/95211406/227517368-8f68c2b7-8c3c-4849-a12a-ff27f23537e3.gif" />
 
-<!-- Languages and Tools Section -->
-<h3 align="left"><font size="+2" face="Verdana">Languages and Tools:</font></h3>
+<!-- About -->
+<h3 align="left"><font size="+2" face="Verdana">About Me</font></h3>
 
+- 🎓 Final-year **B.Tech Information Technology** student (CGPA: **8.7**)
+- 🤖 Interested in **Machine Learning, Deep Learning and Computer Vision**
+- 🧠 Experience building **end-to-end AI systems** from model training to deployment
+- 🌱 Worked on projects across **agriculture, healthcare and autonomous systems**
+- 🏆 **Student of the Year Award** recipient & **Techtrends 2024 – 1st Place** (International Conference)
 
-- I create seamless digital experiences, from frontend design to backend functionality.
-- I’m looking to collaborate on **Full Stack Development Projects**
+---
 
+<!-- Skills Section -->
+<h3 align="left"><font size="+2" face="Verdana">Languages and Tools</font></h3>
 
-
-#### Programming Language Stack
-<p align="left"><img src="c-image.png" alt="C" title="C" title="bash" width="48" height="42"/>  <img src="c++ image.png" alt="C++" title="C++" width="40" height="39"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python" width="40" height="40"/> </p>
-
-#### FrontEnd Stack
-<p align="left"><img src="html-image.webp" alt="HTML" title="HTML" width="40" height="40"/>  <img src="css.png" alt="CSS" title="CSS" width="48" height="51"/>  <img src="js-image.png" alt="JavaScript" title="JavaScript" width="39" height="41"/> <img src="react-image.png" alt="React" title="React" width="40" height="40"/> </p>
-
-#### BackEnd Stack
-<p align="left"><img src="node-image.png" alt="Node" title="Node" width="45" height="40"/></p>
-
-#### Database Stack
-<p align="left"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="mysql" title="mysql" width="40" height="40"/>
-<img src="MongoDB-image.png" alt="MongoDB" title="MongoDB" width="20" height="40"/> </p>
-
-#### Project Management Stack
-<p align="left"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="40" height="40"/>  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="Github" title="Github" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" title="Jira" width="40" height="40"/></p>
-
-#### Editor / IDE I ♥
-<p align="left"><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS-Code" title="VS-Code" width="40" height="40"/> </p>
-
-<!-- Contact Section -->
-<h3 align="left"><font size="+2" face="Verdana">Connect with me:</font></h3>
+#### Programming Languages
 <p align="left">
+<img src="c-image.png" alt="C" width="40" height="40"/>
+<img src="c++ image.png" alt="C++" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" alt="Python" width="40" height="40"/>
 </p>
 
-- 💬 Ask me about **Development**
-- 📫 How to reach me **[shreyashahu1404@gmail.com](mailto:cloudchamp44@gmail.com)**
-- ⚡ Fun fact **I've hit coding milestones and bullseyes, earning the title of a shooting champion while mastering code.**
+#### Machine Learning & AI
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" alt="PyTorch" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" alt="TensorFlow" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png" alt="OpenCV" width="40" height="40"/>
+</p>
+
+#### Data Science & Libraries
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+</p>
+
+#### Web & Deployment
+<p align="left">
+<img src="html-image.webp" alt="HTML" width="40" height="40"/>
+<img src="css.png" alt="CSS" width="40" height="40"/>
+<img src="js-image.png" alt="JavaScript" width="40" height="40"/>
+<img src="react-image.png" alt="React" width="40" height="40"/>
+<img src="node-image.png" alt="Node.js" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png" alt="Flask" width="40" height="40"/>
+</p>
+
+#### Databases
+<p align="left">
+<img src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" alt="MySQL" width="40" height="40"/>
+<img src="MongoDB-image.png" alt="MongoDB" width="25" height="40"/>
+</p>
+
+#### Tools & Platforms
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="Docker" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Colab" width="40" height="40"/>
+</p>
+
+#### IDE
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
+</p>
+
+---
+
+<!-- Projects -->
+<h3 align="left"><font size="+2" face="Verdana">Highlighted Projects</font></h3>
+
+- 🌿 **Plant Disease Detection** – CNN-based model with **98.5% accuracy** on PlantVillage dataset  
+- 🚁 **Autonomous Search & Rescue Drone** – Real-time object detection using **YOLOv8 + Flask**  
+- 👁️ **Glaucoma Detection** – Transformer-based model achieving **AUC 0.96** on retinal scans  
+
+---
+
+<!-- Contact -->
+<h3 align="left"><font size="+2" face="Verdana">Connect with Me</font></h3>
+
+- 💬 Ask me about **Machine Learning, Computer Vision or AI Projects**
+- 📫 Reach me at **shreyashahu1404@gmail.com**
+- ⚡ Fun fact: **National-level shooting champion with a passion for precision - both in sports and code**
