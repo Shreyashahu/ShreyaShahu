@@ -12,7 +12,7 @@ Nagpur, India ·<br>
 ## About Me
 
 - 🎓 B.Tech in Information Technology, St. Vincent Pallotti College of Engineering & Technology (CGPA **8.81 / 10**), Student of the Year 2022–26
-- 💼 Junior Data Scientist at SS Infotech, Nagpur: sales trend analysis on customer transaction data
+- 💼 Junior Data Scientist at SS Infotech, Nagpur
 - 🔬 Research across **clinical ML**, **remote sensing** and **bioinformatics**, with published and accepted work
 - 🏆 Best Paper, International Conference on Tech-Trends in Science, Engineering & Management
 - 📚 Mathematics for Machine Learning (Imperial College London) and IBM Professional Data Science Certificate
